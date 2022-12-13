@@ -10,4 +10,4 @@ WD problem for out-of-place updates in NVM using machine learning.
 - toolKit/, include the evaluation parameters and measurement 
 - components/, include the three key components to operate the data flow
 
-Please use 'pip install -r requirement.txt' to install requirements for python3.
+Please use *pip install -r requirement.txt* to install requirements for python3.
